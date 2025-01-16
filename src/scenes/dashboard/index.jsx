@@ -1,9 +1,15 @@
 import React from 'react'
+import Header from '../../components/Header'
+import { Box } from '@mui/system'
 
-const index = () => {
+const Dashboard = () => {
   return (
-    <div></div>
+    <Box m="20px">
+      <Box display="flex" justifyContent="space-between">
+        <Header title="DASHBOARD" subtitle="Welcome to your Dashboard"></Header>
+      </Box>
+    </Box>
   )
 }
 
-export default index
+export default Dashboard
