@@ -399,36 +399,37 @@ export const mockBarData = [
 
 export const mockPieData = [
   {
-    id: "hack",
-    label: "hack",
-    value: 239,
-    color: "hsl(104, 70%, 50%)",
+    id: "Electronics",
+    label: "Electronics",
+    value: 450,
+    color: "hsl(200, 70%, 50%)",
   },
   {
-    id: "make",
-    label: "make",
-    value: 170,
-    color: "hsl(162, 70%, 50%)",
+    id: "Clothing",
+    label: "Clothing",
+    value: 350,
+    color: "hsl(120, 70%, 50%)",
   },
   {
-    id: "go",
-    label: "go",
-    value: 322,
-    color: "hsl(291, 70%, 50%)",
+    id: "Home Appliances",
+    label: "Home Appliances",
+    value: 250,
+    color: "hsl(90, 70%, 50%)",
   },
   {
-    id: "lisp",
-    label: "lisp",
-    value: 503,
-    color: "hsl(229, 70%, 50%)",
+    id: "Beauty",
+    label: "Beauty",
+    value: 200,
+    color: "hsl(45, 70%, 50%)",
   },
   {
-    id: "scala",
-    label: "scala",
-    value: 584,
-    color: "hsl(344, 70%, 50%)",
+    id: "Sports",
+    label: "Sports",
+    value: 300,
+    color: "hsl(15, 70%, 50%)",
   },
 ];
+
 
 export const mockLineData = [
   {
